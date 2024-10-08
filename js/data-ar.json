@@ -1,0 +1,212 @@
+[
+  {
+    "name": "كيا سيراتو",
+    "category": "Cars",
+    "الموديل": "٢٠٢٣",
+    "النوع": "أتوماتيك",
+    "مدة التقسيط": "ثلاث سنوات",
+    "القسط الشهري": "١٠٠٠٠ج.م",
+    "images": [
+      "images/kia cerato1.jpg",
+      "images/kia cerato2.jpg",
+      "images/kia cerato3.jpg",
+      "images/kia cerato4.jpg"
+    ]
+  },
+  {
+    "name": "هيونداي النترا",
+    "category": "Cars",
+    "الموديل": "٢٠٢٢",
+    "النوع": "مانيوال",
+    "مدة التقسيط": "ثلاث سنوات",
+    "القسط الشهري": "٨٠٠٠ج.م",
+    "images": [
+      "images/hyundai elantra1.jpg",
+      "images/hyundai elantra2.jpg",
+      "images/hyundai elantra3.jpg",
+      "images/hyundai elantra4.jpg"
+    ]
+  },
+  {
+    "name": "ام جي زد اس ١",
+    "category": "Cars",
+    "الموديل": "٢٠٢٤",
+    "النوع": "أتوماتيك",
+    "مدة التقسيط": "أربع سنوات",
+    "القسط الشهري": "١٠٠٠٠ج.م",
+    "images": [
+      "images/mg zs1.jpg",
+      "images/mg zs2.jpg",
+      "images/mg zs3.jpg",
+      "images/mg zs4.jpg"
+    ]
+  },
+  {
+    "name": "رينو لوجان",
+    "category": "Cars",
+    "الموديل": "٢٠٢٠",
+    "النوع": "مانيوال",
+    "مدة التقسيط": "سنتان",
+    "القسط الشهري": "٦٥٠٠ج.م",
+    "images": [
+      "images/renault logan1.jpg",
+      "images/renault logan2.jpg",
+      "images/renault logan3.jpg",
+      "images/renault logan4.jpg"
+    ]
+  },
+  {
+    "name": "تويوتا كورولا",
+    "category": "Cars",
+    "الموديل": "٢٠٢٤",
+    "النوع": "أتوماتيك",
+    "مدة التقسيط": "أربع سنوات",
+    "القسط الشهري": "١٢٥٠٠ج.م",
+    "images": [
+      "images/toyota corola1.jpg",
+      "images/toyota corola2.jpg",
+      "images/toyota corola3.jpg",
+      "images/toyota corola4.jpg"
+    ]
+  },
+  {
+    "name": "شقه في مدينه المستقبل",
+    "category": "Realstate",
+    "الوصف": "ثلاث غرف وصالة",
+    "الطابق": "الخامس",
+    "مدة التقسيط": "عشر سنوات",
+    "القسط الشهري": "٦٠٠٠ج.م",
+    "images": [
+      "images/mostkbal city1.jpg",
+      "images/mostkbal city2.jpg",
+      "images/mostkbal city3.jpg",
+      "images/mostkbal city4.jpg"
+    ]
+  },
+  {
+    "name": "شقه في الشيخ زايد",
+    "category": "Realstate",
+    "الوصف": "غرفتان وصالة",
+    "الطابق": "الأول",
+    "مدة التقسيط": "ثلاث سنوات",
+    "القسط الشهري": "٨٠٠٠ج.م",
+    "images": [
+      "images/sheikh zayed1.jpg",
+      "images/sheikh zayed2.jpg",
+      "images/sheikh zayed3.jpg",
+      "images/sheikh zayed4.jpg"
+    ]
+  },
+  {
+    "name": "شقه في تاج سيتي",
+    "category": "Realstate",
+    "الوصف": "ثلاث غرف وصالة",
+    "الطابق": "الثالث",
+    "مدة التقسيط": "خمس سنوات",
+    "القسط الشهري": "٨٠٠٠ج.م",
+    "images": [
+      "images/tag city1.jpg",
+      "images/tag city2.jpg",
+      "images/tag city3.jpg",
+      "images/tag city4.jpg"
+    ]
+  },
+  {
+    "name": "شقه في تاج سلطان",
+    "category": "Realstate",
+    "الوصف": "أربع غرف وصالة",
+    "الطابق": "الثاني",
+    "مدة التقسيط": "سبع سنوات",
+    "القسط الشهري": "٩٠٠٠ج.م",
+    "images": [
+      "images/tag soltan1.jpg",
+      "images/tag soltan2.jpg",
+      "images/tag soltan3.jpg",
+      "images/tag soltan4.jpg"
+    ]
+  },
+  {
+    "name": "شقه في ماونتن فيو",
+    "category": "Realstate",
+    "الوصف": "خمس غرف وصالة",
+    "الطابق": "الأول",
+    "مدة التقسيط": "خمس عشرة سنة",
+    "القسط الشهري": "١٥٠٠٠ج.م",
+    "images": [
+      "images/mountain view1.jpg",
+      "images/mountain view2.jpg",
+      "images/mountain view3.jpg",
+      "images/mountain view4.jpg"
+    ]
+  },
+  {
+    "name": "لينوفو ايدياباد",
+    "category": "Electronics",
+    "العلامة التجارية": "Lenovo",
+    "الضمان": "سنتان",
+    "مدة التقسيط": "سنتان",
+    "القسط الشهري": "٣٠٠٠ج.م",
+    "images": [
+      "images/lenovo ideapad1.jpg",
+      "images/lenovo ideapad2.jpg",
+      "images/lenovo ideapad3.jpg",
+      "images/lenovo ideapad4.jpg"
+    ]
+  },
+  {
+    "name": "شاشه ذكيه ال جي",
+    "category": "Electronics",
+    "العلامة التجارية": "LG",
+    "الضمان": "سنة واحدة",
+    "مدة التقسيط": "سنتان",
+    "القسط الشهري": "١٥٠٠ج.م",
+    "images": [
+      "images/lg smart tv1.jpg",
+      "images/lg smart tv2.jpg",
+      "images/lg smart tv3.jpg",
+      "images/lg smart tv4.jpg"
+    ]
+  },
+  {
+    "name": "سماعه اذن اورايمو",
+    "category": "Electronics",
+    "العلامة التجارية": "Oraimo",
+    "الضمان": "ثمانية عشر شهرًا",
+    "مدة التقسيط": "سنة واحدة",
+    "القسط الشهري": "٢٠٠ج.م",
+    "images": [
+      "images/oraimo airpods1.jpg",
+      "images/oraimo airpods2.jpg",
+      "images/oraimo airpods3.jpg",
+      "images/oraimo airpods4.jpg"
+    ]
+  },
+  {
+    "name": "سوني بلايستيشن ٥",
+    "category": "Electronics",
+    "العلامة التجارية": "Sony",
+    "الضمان": "سنة واحدة",
+    "مدة التقسيط": "ستة أشهر",
+    "القسط الشهري": "٥٠٠٠ج.م",
+    "images": [
+      "images/sony ps5 1.jpg",
+      "images/sony ps5 2.jpg",
+      "images/sony ps5 3.jpg",
+      "images/sony ps5 4.jpg"
+    ]
+  },
+  {
+    "name": "ثلاجه توشيبا",
+    "category": "Electronics",
+    "العلامة التجارية": "Tushiba",
+    "الضمان": "ثلاث سنوات",
+    "مدة التقسيط": "سنتان",
+    "القسط الشهري": "٣٠٠٠ج.م",
+    "images": [
+      "images/tushuba fridge1.jpg",
+      "images/tushuba fridge2.jpg",
+      "images/tushuba fridge3.jpg",
+      "images/tushuba fridge4.jpg"
+    ]
+  }
+]

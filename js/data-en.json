@@ -1,0 +1,212 @@
+[
+  {
+    "name": "KIA Cerato",
+    "category": "Cars",
+    "Model": "2023",
+    "Type": "automatic",
+    "Install. Time": "three years",
+    "Install. Per Month": "10000EGP",
+    "images": [
+      "images/kia cerato1.jpg",
+      "images/kia cerato2.jpg",
+      "images/kia cerato3.jpg",
+      "images/kia cerato4.jpg"
+    ]
+  },
+  {
+    "name": "Hyundai Elantra",
+    "category": "Cars",
+    "Model": "2022",
+    "Type": "manual",
+    "Install. Time": "three years",
+    "Install. Per Month": "8000EGP",
+    "images": [
+      "images/hyundai elantra1.jpg",
+      "images/hyundai elantra2.jpg",
+      "images/hyundai elantra3.jpg",
+      "images/hyundai elantra4.jpg"
+    ]
+  },
+  {
+    "name": "MG ZS1",
+    "category": "Cars",
+    "Model": "2024",
+    "Type": "automatic",
+    "Install. Time": "four years",
+    "Install. Per Month": "10000EGP",
+    "images": [
+      "images/mg zs1.jpg",
+      "images/mg zs2.jpg",
+      "images/mg zs3.jpg",
+      "images/mg zs4.jpg"
+    ]
+  },
+  {
+    "name": "Renault Logan",
+    "category": "Cars",
+    "Model": "2020",
+    "Type": "manual",
+    "Install. Time": "two years",
+    "Install. Per Month": "6500EGP",
+    "images": [
+      "images/renault logan1.jpg",
+      "images/renault logan2.jpg",
+      "images/renault logan3.jpg",
+      "images/renault logan4.jpg"
+    ]
+  },
+  {
+    "name": "Toyota Corola",
+    "category": "Cars",
+    "Model": "2024",
+    "Type": "automatic",
+    "Install. Time": "four years",
+    "Install. Per Month": "12500EGP",
+    "images": [
+      "images/toyota corola1.jpg",
+      "images/toyota corola2.jpg",
+      "images/toyota corola3.jpg",
+      "images/toyota corola4.jpg"
+    ]
+  },
+  {
+    "name": "Mostkbal City Apartment",
+    "category": "Realstate",
+    "Desc.": "Three rooms and a hall",
+    "Floor": "Fifth",
+    "Install. Time": "ten years",
+    "Install. Per Month": "6000EGP",
+    "images": [
+      "images/mostkbal city1.jpg",
+      "images/mostkbal city2.jpg",
+      "images/mostkbal city3.jpg",
+      "images/mostkbal city4.jpg"
+    ]
+  },
+  {
+    "name": "Sheikh Zayed Apartment",
+    "category": "Realstate",
+    "Desc.": "two rooms and a hall",
+    "Floor": "First",
+    "Install. Time": "three years",
+    "Install. Per Month": "8000EGP",
+    "images": [
+      "images/sheikh zayed1.jpg",
+      "images/sheikh zayed2.jpg",
+      "images/sheikh zayed3.jpg",
+      "images/sheikh zayed4.jpg"
+    ]
+  },
+  {
+    "name": "Tag City Apartment",
+    "category": "Realstate",
+    "Desc.": "three rooms and a hall",
+    "Floor": "Third",
+    "Install. Time": "five years",
+    "Install. Per Month": "8000EGP",
+    "images": [
+      "images/tag city1.jpg",
+      "images/tag city2.jpg",
+      "images/tag city3.jpg",
+      "images/tag city4.jpg"
+    ]
+  },
+  {
+    "name": "Tag Soltan Apartment",
+    "category": "Realstate",
+    "Desc.": "four rooms and a hall",
+    "Floor": "second",
+    "Install.": "seven years",
+    "Install. Per Month": "9000EGP",
+    "images": [
+      "images/tag soltan1.jpg",
+      "images/tag soltan2.jpg",
+      "images/tag soltan3.jpg",
+      "images/tag soltan4.jpg"
+    ]
+  },
+  {
+    "name": "Mountain View Apartment",
+    "category": "Realstate",
+    "Desc.": "five rooms and a hall",
+    "Floor": "first",
+    "Install.": "fiften years",
+    "Install. Per Month": "15000EGP",
+    "images": [
+      "images/mountain view1.jpg",
+      "images/mountain view2.jpg",
+      "images/mountain view3.jpg",
+      "images/mountain view4.jpg"
+    ]
+  },
+  {
+    "name": "Lenovo Ideapad",
+    "category": "Electronics",
+    "Brand": "Lenovo",
+    "Wrantry": "two years",
+    "Install. Time": "two years",
+    "Install. Per Month": "3000EGP",
+    "images": [
+      "images/lenovo ideapad1.jpg",
+      "images/lenovo ideapad2.jpg",
+      "images/lenovo ideapad3.jpg",
+      "images/lenovo ideapad4.jpg"
+    ]
+  },
+  {
+    "name": "LG Smart Tv",
+    "category": "Electronics",
+    "Brand": "LG",
+    "Wrantry": "one year",
+    "Install. Time": "two years",
+    "Install. Per Month": "1500EGP",
+    "images": [
+      "images/lg smart tv1.jpg",
+      "images/lg smart tv2.jpg",
+      "images/lg smart tv3.jpg",
+      "images/lg smart tv4.jpg"
+    ]
+  },
+  {
+    "name": "Oraimo Airpods",
+    "category": "Electronics",
+    "Brand": "Oraimo",
+    "Wrantry": "eighten months",
+    "Install. Time": "one year",
+    "Install. Per Month": "200EGP",
+    "images": [
+      "images/oraimo airpods1.jpg",
+      "images/oraimo airpods2.jpg",
+      "images/oraimo airpods3.jpg",
+      "images/oraimo airpods4.jpg"
+    ]
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "category": "Electronics",
+    "Brand": "Sony",
+    "Wrantry": "one year",
+    "Install. Time": "six months",
+    "Install. Per Month": "5000EGP",
+    "images": [
+      "images/sony ps5 1.jpg",
+      "images/sony ps5 2.jpg",
+      "images/sony ps5 3.jpg",
+      "images/sony ps5 4.jpg"
+    ]
+  },
+  {
+    "name": "Tushuba Fridge",
+    "category": "Electronics",
+    "Brand": "Tushiba",
+    "Wrantry": "three year",
+    "Install. Time": "two years",
+    "Install. Per Month": "3000EGP",
+    "images": [
+      "images/tushuba fridge1.jpg",
+      "images/tushuba fridge2.jpg",
+      "images/tushuba fridge3.jpg",
+      "images/tushuba fridge4.jpg"
+    ]
+  }
+]

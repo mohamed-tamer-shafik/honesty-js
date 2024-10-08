@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png" />
+    <title>Honesty</title>
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <!-- installment apply pop-up and overlay starts -->
+    <div class="overlay hidden"></div>
+    <div class="payment-pop-up pop-up hidden">
+      <div>
+        <p class="payment-msg"></p>
+        <div class="btn-container">
+          <button class="green-border yes-btn">نعم</button>
+          <button class="red-border no-btn">لا</button>
+        </div>
+      </div>
+    </div>
+    <div class="apply-pop-up pop-up hidden">
+      <p class="name"></p>
+      <div class="container">
+        <div class="img-displayer">
+          <div class="main-img">
+            <img src="" alt="product main image" />
+          </div>
+          <div class="mini-imgs">
+            <div class="selec-img">
+              <img src="" alt="first mini image" />
+            </div>
+            <div>
+              <img src="" alt="second mini image" />
+            </div>
+            <div>
+              <img src="" alt="third mini image" />
+            </div>
+            <div>
+              <img src="" alt=" fourth mini image" />
+            </div>
+          </div>
+        </div>
+        <div class="product-info">
+          <div class="btn-container">
+            <button class="pop-up-apply green-border">تقسيط</button>
+            <button class="pop-up-cancel red-border">الغاء</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- installment apply pop-up and overlay ends -->
+    <!-- Header starts -->
+    <div class="main-header">
+      <div>
+        <a class="logout-btn" href="login-ar.html">تسجيل الخروج</a>
+        <div class="languages">
+          <i class="fa-solid fa-earth-americas"></i>
+          <ul class="language-selector hidden">
+            <a href="installs.html">الانجليزيه</a>
+            <a>العربيه</a>
+          </ul>
+        </div>
+      </div>
+      <!-- Search bar and Filter starts -->
+      <div class="search-filter">
+        <div class="filter-container">
+          <button class="filter-btn">
+            <i class="fa-solid fa-filter"></i>
+          </button>
+          <form action="" class="catergories-list hidden">
+            <h3>الفئات</h3>
+            <div class="cat">
+              <input type="checkbox" id="cars" value="Cars" />
+              <label for="cars">سيارات</label>
+            </div>
+            <div class="cat">
+              <input type="checkbox" id="real" value="Realstate" />
+              <label for="real">عقارات</label>
+            </div>
+            <div class="cat">
+              <input type="checkbox" id="elec" value="Electronics" />
+              <label for="elec">الكترونيات</label>
+            </div>
+            <div class="btns">
+              <button class="filter-apply green-border">تطبيق</button>
+              <button class="filter-cancel red-border">الغاء</button>
+            </div>
+          </form>
+        </div>
+        <form action="" class="search">
+          <input type="text" placeholder="ابحث بالاسم" class="search-bar" />
+          <button class="search-btn">
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </button>
+        </form>
+      </div>
+      <!-- Search bar and Filter   ends  -->
+    </div>
+    <!-- Header ends -->
+    <!-- Root starts -->
+    <div class="root">
+      <!-- Product's displayer starts -->
+      <section class="products-displayer"></section>
+      <!-- Product's displayer  ends -->
+      <!-- nav bar starts -->
+      <div class="nav-bar">
+        <a href="main-ar.html"
+          ><i class="fa-solid fa-wallet"></i>
+          <p>المحفظه</p>
+        </a>
+        <a class="selected">
+          <i class="fa-solid fa-cash-register"></i>
+          <p>أقساط</p>
+        </a>
+      </div>
+      <!-- nav bar ends -->
+    </div>
+    <!-- Root ends -->
+    <script src="js/master.js"></script>
+  </body>
+</html>
