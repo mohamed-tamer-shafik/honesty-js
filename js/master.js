@@ -651,7 +651,7 @@ if (filterIcon) {
   const displayProducts = async function () {
     try {
       const response = await fetch(
-        isEng ? '../js/data-en.json' : '../js/data-ar.json'
+        isEng ? '/js/data-en.json' : '/js/data-ar.json'
       );
       if (!response.ok) throw new Error('failed to connect to json file');
       const prod = await response.json();
